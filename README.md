@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 email me @arthur.rosaroso@gmail.com
 
-- kid still got a lot to learn
+- this kid still got a lot to learn
 
 <!---
 ca-ros/ca-ros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
