@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL, R, Python and Tableau
+- 🌱 I’m currently Python and Tableau
 - 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 Send me an <a href = "mailto: arthur.rosaroso@gmail.com">email</a>
 
-- Still got a lot to learn
+- I'm hungry to learn, rawr
 
 <!---
 ca-ros/ca-ros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
