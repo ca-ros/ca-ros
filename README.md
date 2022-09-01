@@ -32,3 +32,7 @@ Git, Advanced Excel, SQL, R, Python, Tableau and Machine Learning...
     <img src="https://skillicons.dev/icons?i=git" alt="Python">
   </a>
 </p>
+
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
