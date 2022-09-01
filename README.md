@@ -28,7 +28,7 @@ Git, Advanced Excel, SQL, R, Python, Tableau and Machine Learning...
 </p>
 
 <p align="center">
-  <a href="Python">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,figma" alt = "Python">
+    <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" alt="Python">
   </a>
 </p>
