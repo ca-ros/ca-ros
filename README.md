@@ -6,6 +6,8 @@
 
 - I'm hungry to learn, rawr
 
+
+
 <!---
 ca-ros/ca-ros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,3 +20,9 @@ You can click the Preview link to take a look at your changes.
 ## 🛠 Skills
 
 Git, Advanced Excel, SQL, R, Python, Tableau and Machine Learning...
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,figma" alt = "Python">
+  </a>
+</p>
