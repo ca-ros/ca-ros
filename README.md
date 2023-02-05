@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 Send me an <a href = "mailto: arthur.rosaroso@gmail.com">email</a>
 
-- I'm hungry to learn, rawr
+**Note**: Some repositories are moved and combined to other repositories.
 
 <!---
 ca-ros/ca-ros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
